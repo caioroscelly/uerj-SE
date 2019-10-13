@@ -1,5 +1,5 @@
-Tarefa 02 - Software Distribuido - UERJ 
-
+Tarefa 02 - Sesores e Atuadores \
+Software Distribuido - UERJ \
 Caio Roscelly Barros Fagundes
 
 --> Explorar Sensores e atuadores
