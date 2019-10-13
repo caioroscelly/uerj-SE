@@ -1,6 +1,6 @@
-Tarefa 02 - Sesores e Atuadores \
-Software Distribuido - UERJ \
-Caio Roscelly Barros Fagundes
+# Tarefa 02 - Sesores e Atuadores 
+## Software Distribuido - UERJ 
+### Caio Roscelly Barros Fagundes
 
 --> Explorar Sensores e atuadores
 
