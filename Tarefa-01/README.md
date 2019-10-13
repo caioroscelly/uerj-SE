@@ -1,5 +1,5 @@
 # Tarefa 01 - Pisca LED
-## Software Distribuido - UERJ 
+## Software Embarcado - UERJ 
 ### Caio Roscelly Barros Fagundes
 
 --> Piscar LED a cada 1 segundo
