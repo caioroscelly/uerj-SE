@@ -1,8 +1,6 @@
-Tarefa 03 - Entrada Analógica
-
-Software Distribuido - UERJ
-
-Caio Roscelly Barros Fagundes
+# Tarefa 03 - Entrada Analógica 
+## Software Distribuido - UERJ 
+### Caio Roscelly Barros Fagundes
 
 --> Usar conversor ou comparador Analógico
 
