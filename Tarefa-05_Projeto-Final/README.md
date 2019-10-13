@@ -1,5 +1,5 @@
 # Tarefa 05 - Projeto Final 
-## Software Distribuido - UERJ 
+## Software Embarcado - UERJ 
 ### Caio Roscelly Barros Fagundes
 
 
