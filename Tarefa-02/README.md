@@ -1,5 +1,5 @@
 # Tarefa 02 - Sesores e Atuadores 
-## Software Distribuido - UERJ 
+## Software Embarcado - UERJ 
 ### Caio Roscelly Barros Fagundes
 
 --> Explorar Sensores e atuadores
