@@ -1,3 +1,7 @@
+# Tarefa 05 - Projeto Final 
+## Software Distribuido - UERJ 
+### Caio Roscelly Barros Fagundes
+
 
 Ideia:
 
@@ -11,5 +15,5 @@ Comandos “get” para leitura de variáveis, como temperatura e umidade;\
 Envio de strings que podem ser mostradas em um display OLED;\
 Envio de comandos remotos para ligar e desligar lâmpadas;\
 Whatever (ainda não pensei em todas as possibilidades legais).\
-https://www.youtube.com/watch?v=LgPuunu8EnI\
+https://www.youtube.com/watch?v=LgPuunu8EnI
 
