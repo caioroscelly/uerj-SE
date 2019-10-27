@@ -1,7 +1,7 @@
 # Tarefa 04 - Temporizadores -Timers 
 ## Software Embarcado - UERJ 
 ### Caio Roscelly Barros Fagundes
- - 
+ 
 --> Entender e criar um Timer para contar o tempo usando arduíno e aplicar esse Timer no Trabalho 02
 
 --> Substituir a função millis ou delay (ou qualquer outra função que conte e use o tempo) pelo TIMER1
