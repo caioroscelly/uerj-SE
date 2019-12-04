@@ -13,6 +13,6 @@ Ideia:
 -->Os comandos serão:\
 Comandos “get” para leitura de variáveis, como temperatura e umidade\
 Comandos “set” para controlar remotamente um motor Servo\
-Envio de comandos “set” remotos para ligar e desligar lâmpadas\
+Envio de comandos “set” remotos para ligar e desligar lâmpadas
 
 
