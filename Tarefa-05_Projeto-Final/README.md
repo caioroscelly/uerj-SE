@@ -7,7 +7,7 @@ Ideia:
 
 --> Utilizar o arduino + modulo wireless ESP8266 ESP-01 para executar comandos remotos através de Interface Webserver. 
 
---> A motivação para este projeto é o desejo de controlar remotamente, via Wi-Fi,  os sensores e atuadores do arduino através de um Webserver que fazem o papel de interface para comunicação web em uma rede sem fio. Com isso, utilizar os conceitos de IoT (Internet of Things) a fim de ter, via internet, acesso a dados e controle de dispositivos eletrônicos.
+--> A motivação para este projeto é o desejo de controlar remotamente, via Wi-Fi,  os sensores e atuadores do arduino através de um Webserver que fazem o papel de interface para comunicação web em uma rede sem fio. Com isso, utilizar os conceitos de IoT (Internet of Things) e Smart Homes a fim de ter, via internet, acesso a dados e controle de dispositivos eletrônicos.
 
 
 -->Os comandos serão:\
