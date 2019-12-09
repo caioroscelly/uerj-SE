@@ -1,7 +1,6 @@
 # Tarefa 05 - Projeto Final 
-## Software Embarcado - UERJ 
+## Software Embarcado - UERJ - 2019.2
 ### Caio Roscelly Barros Fagundes
-#### 2019.2
 
 
 Ideia:
