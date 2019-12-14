@@ -2,7 +2,6 @@
 ## Software Embarcado - UERJ - 2019.2
 ### Caio Roscelly Barros Fagundes
 
-
 Ideia:
 
 --> Utilizar o arduino + modulo wireless ESP8266 ESP-01 para executar comandos remotos através de Interface Webserver. Inicialmente a ideia era utilizar interface de comandos via web como sendo o Telegram, porém, essa ideia não deu certo e o modo como a interface web é criada teve de ser modificado.
@@ -15,4 +14,4 @@ Ideia:
 - Comandos “set” para controlar remotamente um motor Servo
 - Envio de comandos “set” remotos para ligar e desligar lâmpadas
 
-
+LINK PARA VIDEO MOSTRANDO O PRJETO NO YOUTUBE --> https://www.youtube.com/watch?v=M45eCXSaNok
