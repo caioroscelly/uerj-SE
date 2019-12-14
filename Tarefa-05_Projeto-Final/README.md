@@ -11,7 +11,8 @@ Ideia:
 
 -->Os comandos serão:
 - Comandos “get” para leitura de variáveis, como temperatura e umidade
-- Comandos “set” para controlar remotamente um motor Servo
 - Envio de comandos “set” remotos para ligar e desligar lâmpadas
+- Comandos “set” para controlar remotamente um motor Servo = Não foi possível colocar 3 componentes no ESP01, portanto, Motor Servo não existe mais
+
 
 LINK PARA VIDEO MOSTRANDO O PRJETO NO YOUTUBE --> https://www.youtube.com/watch?v=M45eCXSaNok
